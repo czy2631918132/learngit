@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 create a dev.
 add coding: utf-8.
+add /usr/bin/env.
+
